@@ -5,7 +5,7 @@ ii# ASP.NET Core (.NET Framework)
 
 trigger:
 - main
-hello world "mouni"
+
 pool:
   vmImage: 'windows-latest'
 
